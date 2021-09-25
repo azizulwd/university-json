@@ -4,69 +4,79 @@
     "country": "Bangladesh",
     "city": "Dhaka",
     "position": 1,
-    "Budget": 8500
+    "Budget": 8500,
+    "image": "https://media-eng.dhakatribune.com/uploads/2020/07/whatsapp-image-2020-07-01-at-8-07-49-pm-1593668734872.jpeg"
   },
   {
     "name": "Bangladesh University of Engineering and Technology",
     "country": "Bangladesh",
     "city": "Dhaka",
     "position": 2,
-    "Budget": 2500
+    "Budget": 2500,
+    "image": "https://media-eng.dhakatribune.com/uploads/2020/10/buet-ece-building-wikimedia-1544976652104-1603183976453.jpg"
   },
   {
     "name": "Rajshahi University",
     "country": "Bangladesh",
     "city": "Rajshahi",
     "position": 3,
-    "Budget": 1500
+    "Budget": 1500,
+    "image": "https://media-exp1.licdn.com/dms/image/C561BAQHC5spmy7yOJg/company-background_10000/0/1601320510909?e=2159024400&v=beta&t=nNKC1xX46Uzr2PiLWfuXWPE6ZcQASKl007Q7lkX2TZo"
   },
   {
     "name": "Jahangirnagar University",
     "country": "Bangladesh",
     "city": "Savar",
     "position": 4,
-    "Budget": 500
+    "Budget": 500,
+    "image": "https://juniv.edu/storage/image/department/13_Department-of-Physics-3fb763.jpg"
   },
   {
     "name": "Islamic University",
     "country": "Bangladesh",
     "city": "Kustia",
     "position": 5,
-    "Budget": 1200
+    "Budget": 1200,
+    "image": "https://i.tribune.com.pk/media/images/1660293-iiui-1521097683/1660293-iiui-1521097683.jpg"
   },
   {
     "name": "University of Chittagong",
     "country": "Bangladesh",
     "city": "Chittagong",
     "position": 6,
-    "Budget": 700
+    "Budget": 700,
+    "image": "https://cu.ac.bd/assets/deptpage/image/Page_2_1554443767_C4YFDCN9IR.jpg"
   },
   {
     "name": "BRAC University",
     "country": "Bangladesh",
     "city": "Dhaka",
     "position": 7,
-    "Budget": 3300
+    "Budget": 3300,
+    "image": "https://images.skyscrapercenter.com/building/brac200317-050318.gif"
   },
   {
     "name": "Bangladesh Agricultural University",
     "country": "Bangladesh",
     "city": "Mymensingh",
     "position": 8,
-    "Budget": 300
+    "Budget": 300,
+    "image": "https://www.campus.com.bd/wp-content/uploads/2016/09/Bangladesh-Agricultural-University-Admission.jpg"
   },
   {
     "name": "North South University",
     "country": "Bangladesh",
     "city": "Dhaka",
     "position": 9,
-    "Budget": 9900
+    "Budget": 9900,
+    "image": "https://lh3.googleusercontent.com/proxy/Xv1tngw18p7d0ozqVNoTQ6Vc4Q8S9xDSr_FWOQ9jJ8ol7mLBMc_OLzwy2f9LeGVK_JvvnPOFHg-oQDiB72GvZviAFJ46uMYoLzw"
   },
   {
     "name": "Jagannath University",
     "country": "Bangladesh",
     "city": "Dhaka",
     "position": 10,
-    "Budget": 200
+    "Budget": 200,
+    "image": "https://media-eng.dhakatribune.com/uploads/2019/02/web-jagnnath-university-jnu-file-photo-1550502766039.jpg"
   }
 ]
